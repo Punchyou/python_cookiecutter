@@ -63,7 +63,7 @@ This is a Cookiecutter template for creating a Python 3.10 project with Docker s
 2. Generate a new project using this template:
 
     ```
-    cookiecutter path/to/cookiecutter-template
+    cookiecutter https://github.com/Punchyou/python_cookiecutter
     ```
 
 3. Follow the prompts to customize your project.
