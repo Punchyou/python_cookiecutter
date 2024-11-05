@@ -20,9 +20,12 @@ class Logger:
         """
         Initializes the Logger with a specified name and logging level.
 
-        Args:
-            name (str): The name of the logger. Defaults to __name__.
-            level (int): The logging level. Defaults to logging.DEBUG.
+        Parameters:
+        ----------
+        name: str
+            The name of the logger.
+        level: int
+            The logging level.
         """
         self.logger = logging.getLogger(name)
         self.logger.setLevel(level)
