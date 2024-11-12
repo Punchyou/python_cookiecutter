@@ -61,7 +61,8 @@
                 "wowbox.code-debuger",
                 "yzane.markdown-pdf",
                 "yzhang.markdown-all-in-one",
-                "znck.grammarly"
+                "znck.grammarly",
+                "ms-python.debugpy"
             ]
         }
     }
